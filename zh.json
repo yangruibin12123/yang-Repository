@@ -141,7 +141,7 @@
 "selectBossHint": "选择Boss",
 "win": "[2]获得胜利",
 "minionDie": "[1]消失了",
-"damage": "[1]删除[2]点代码",
+"damage": "[1]删除[2]行代码",
 "die": "[1]被击倒了",
 "sklMagicAttack": "[0]发起攻击",
 "sklCounter": "[0]发起[反击]",
